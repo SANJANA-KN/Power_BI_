@@ -1,0 +1,86 @@
+# Power BI Service
+
+## Introduction
+Power BI Service is a cloud-based platform used to publish, share, and collaborate on Power BI reports and dashboards.
+
+It enables organizations to access reports from anywhere using the internet.
+
+---
+
+## Features of Power BI Service
+
+### 1. Report Publishing
+- Upload Power BI Desktop reports (.pbix)
+- Share with users or teams
+
+### 2. Dashboards
+- Combine visuals from multiple reports
+- Real-time insights
+
+### 3. Workspaces
+- Collaborative environments for teams
+- Organize reports and datasets
+
+### 4. Data Refresh
+- Scheduled refresh
+- Automatic updates from data sources
+
+### 5. Sharing & Collaboration
+- Share dashboards with users
+- Assign roles and permissions
+
+---
+
+## Power BI Service Workflow
+
+1. Build report in Power BI Desktop
+2. Publish to Power BI Service
+3. Create dashboard
+4. Share with users
+5. Schedule data refresh
+
+---
+
+## Workspaces in Power BI
+Workspaces are containers for:
+- Reports
+- Dashboards
+- Datasets
+
+### Types:
+- My Workspace (Personal)
+- Shared Workspaces (Team-based)
+
+---
+
+## Data Refresh Types
+- Manual Refresh
+- Scheduled Refresh
+- Real-time Streaming
+
+---
+
+## Security in Power BI Service
+- Role-based access
+- Row-Level Security (RLS)
+- Permissions control
+
+---
+
+## Advantages
+- Cloud access from anywhere
+- Easy collaboration
+- Real-time reporting
+- Centralized data management
+
+---
+
+## Limitations
+- Requires internet
+- Some features need premium license
+- Data size limits in free version
+
+---
+
+## Key Takeaway
+Power BI Service enables cloud-based sharing, collaboration, and real-time analytics for business users and organizations.
